@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.me{
+    background-color: blue;
+    color: white;
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+    background-size: cover;
+
+}
+.para{
+  
+  background-color: blue;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+
+}
+.icon i{
+    font-size: 30px;
+    padding: 8px;
+    padding-top: 40px;
+}
+.set i{
+  font-size: 80px;
+
+  color: black;
+  padding: 20px;
+
+ margin: 40px;
+
+}

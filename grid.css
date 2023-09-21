@@ -1,0 +1,44 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+    height: 100vh;
+    display: grid;
+    object-fit: cover;
+    grid-template-columns: 1fr 1fr 1fr  1fr 1fr 1fr 1fr ;
+    grid-template-rows: 100px 200px 100px;
+    margin: 40px 20px;
+  
+}
+.grid-item1{
+    background-image: url(design1.jpg);
+    background-size: cover;
+  
+ 
+
+}
+.grid-item2{
+    background-image: url(design2.jpg);
+    background-size: cover;
+}
+.grid-item3{
+    background-image: url(design3.jpg);
+    background-size: cover;
+}
+.grid-item4{
+    background-image: url(design4.png);
+    background-size: cover;
+}
+.grid-item5{
+    background-image: url(design5.png);
+    background-size: cover;
+}
+.grid-item6{
+    background-image: url(design6.jpg);
+    background-size: cover;
+}
+.grid-item7{
+    background-image: url(creative.jpg);
+    background-size: cover;
+}

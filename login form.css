@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bg {
+  background-image: url(homeland.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.for {
+  color: white;
+  background-color: black;
+}
+
+.img {
+  width: 350px;
+  padding: opx;
+  
+}
+
+.img h1 {
+  font-style: italic;
+  color: rgb(0, 0, 0);
+  font-size: 40PX;
+}
+.img form {
+  padding: 50px;
+  border: none;
+
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-style: italic;
+}
+.img button {
+  background-color: rgb(87, 163, 185);
+  size: 10px;
+}

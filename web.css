@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: antiquewhite;
+    width: 100%;
+
+
+
+}
+
+.first {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px;
+
+}
+
+.header.first ul,
+li {
+
+    text-align: left;
+    display: inline;
+    padding: 5px;
+
+}
+
+.head {
+    text-align: center;
+    font-size: 40px;
+    color: orangered;
+
+}
+
+.btn {
+    font-size: 40px;
+
+    border-radius: 20px;
+    background-color: yellow;
+    box-shadow: 0px 0px 15px currentcolor;
+}
+
+.btn:hover {
+    background-color: red;
+    color: white;
+
+}
+
+.img {
+    background-image: url(web.jpg);
+    background-size: cover;
+    text-align: center;
+    height: 600px;
+    padding: 90px;
+    color: white;
+}
+
+
+.second h1 {
+    font-size: 80px;
+}
+
+.tap {
+    font-size: 30px;
+    background-color: rgb(0, 255, 102);
+    box-shadow: 0px 0px 15px currentcolor;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+
+.tap:hover {
+    color: white;
+    background-color: black;
+}
+
+.call {
+    font-size: 30px;
+    background-color: tomato;
+    box-shadow: 0px 0px 15px currentcolor;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+
+.call:hover {
+    color: white;
+    background-color: orangered;
+}
+
+.third {
+    text-align: center;
+    font-size: 30px;
+}
+
+.count {
+    background-color: aqua;
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+
+.team {
+    width: 33%;
+    background-color: blue;
+    text-align: center;
+}
+
+.team h1 {
+    font-size: 80px;
+    padding-top: 45px;
+    color: goldenrod;
+}
+
+.team p {
+    color: white;
+    font-size: 30px;
+}
+
+.project {
+    width: 33%;
+    background-color: blue;
+    text-align: center;
+}
+
+.project h1 {
+    font-size: 80px;
+    padding-top: 45px;
+    color: goldenrod;
+}
+
+.project p {
+    color: white;
+    font-size: 30px;
+}
+
+.client {
+    width: 34%;
+    background-color: blue;
+    text-align: center;
+}
+
+.client h1 {
+    font-size: 80px;
+    padding-top: 45px;
+    color: goldenrod;
+}
+
+.client p {
+    color: white;
+    font-size: 30px;
+}

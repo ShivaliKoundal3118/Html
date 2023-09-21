@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.start {
+    background-color: antiquewhite;
+    justify-content: space-between;
+    display: flex;
+    padding: 20px 50px;
+
+}
+
+.start button {
+    margin-right: 50px;
+    font-size: 20px;
+    background-color: aqua;
+
+
+}
+
+.head {
+    justify-content: center;
+    text-align: center;
+    background-image: url(ocean.jpg);
+    background-size: cover;
+    display: flex;
+    padding: 100px 0;
+}
+
+.head form {
+    width: 800px;
+    box-sizing: border-box;
+}
+
+.head button {
+    background-color: rgb(0, 238, 255);
+    font-size: 20px;
+}
+
+.head input {
+    font-size: 20px;
+    font-style: italic;
+    width: 400px;
+height: 25%;
+}
+
+#container {
+    background-color: white;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#container div {
+    background-color: antiquewhite;
+    height: 370px;
+    width: 335px;
+    margin: 60px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 60px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#me {
+    background-color: white;
+    display: flex;
+    align-items: center;
+
+
+}
+
+#me .left-div {
+    background-color: white;
+    width: 50%;
+    font-size: 30px;
+
+}
+
+#me .left-div h2 ,#me .left-div p{
+    padding: 0 40px 0 100px;
+}
+#me .photo{
+    background-image: url(coding.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 500px;
+
+}
+#end {
+
+    display: flex;
+    height: 200px;
+    width: 100%;
+    margin: 10px;
+}
+#end .last{
+    width: 50%;
+    background-color: white;
+    height: 200px;
+    text-align: center;
+    padding: 40px 0 30px 0;
+    font-size: 25px;
+    
+}
+#end .data{
+    width: 50%;
+    background-color:white;
+    height: 200px;
+    text-align: center;
+    font-size: 50px;
+    padding: 40px 0 30px 0;
+   
+}
+#end .data i{
+    background-color: rgb(0, 183, 255);
+    color: black;
+    font-size: 80px;
+    border-radius: 20px;
+}
+ 
+

@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    font-size: 50px;
+    font-style: bold;
+}
+.sign{
+margin-left:300px ;
+}
+.sign input{
+ width: 40%; 
+ height: 50px;
+
+
+}
+.sign button{
+    background-color: white;
+    color: black;
+    height: 50px;
+    width: 15%;
+    background-color: rgb(135, 198, 235);
+    border: none;
+}
+.pages{
+    overflow: hidden;
+    padding: 30px;
+    justify-content: center;
+}
+.pages h1{
+    text-align: center;
+    padding: 80px;
+
+}
+.me h1,p{
+    text-align: center;
+  
+}
+
+.icon i{
+    font-size: 30px;
+   padding: 10px;
+}
+.banner-2{
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+} 
+.arrow i{
+    font-size: 30px;
+    color: white;
+}
+.arrow input{
+    font-size: 16px;
+}
+.col-6 button{
+    border: none;
+    font-size: 25px;
+    background-color: blue;
+}
+

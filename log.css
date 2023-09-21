@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-image: url(beach.jpeg)0;
+  
+ 
+  background-size: cover;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+
+   
+}
+
+
+.box .box1{
+    text-align: center;
+    
+
+    border-radius: 15px;
+    border-style: groove;
+    
+}
+.box .box1 h1{
+    padding: 30px;
+    font-size: 50px;
+    font-style: italic;
+}
+.box .box1 label{
+    font-size: 25px;
+    margin: 10px;
+}
+.box .box1 input{
+    font-size: 20px;
+    border: none;
+}
+.box .box1 button{
+    font-size: 30px;
+    background-color: rgb(0, 204, 255);
+    
+    border-radius: 10px;
+
+}
+.box1 button:hover{
+        background-color: blueviolet;
+        color: white;
+}
+.box1 h1:hover{
+    
+    color:blue;
+}
+.box1 label:hover{
+    color: rgb(255, 47, 123);
+
+}
+.box .box1 i{
+    
+    font-size: 100px;
+
+}

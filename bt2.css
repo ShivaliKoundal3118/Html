@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+  
+
+   font-size: 60px;
+   color: black; 
+
+}
+.me{
+    font-size: 35px;
+    color: black;
+  
+}
+.btn{
+    background-color: green;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+.container{
+    padding: 40px;
+}
+.for{
+    background-color:black;
+    color: white;
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+
+}
+.par{
+  
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+
+}
+.icon i{
+    font-size: 30px;
+    padding: 8px;
+    padding-top: 40px;
+}
+.set i{
+  font-size: 80px;
+  background-color: rgb(105, 76, 172);
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+ margin: 40px;
+
+}
